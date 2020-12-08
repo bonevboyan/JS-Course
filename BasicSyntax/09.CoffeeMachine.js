@@ -35,4 +35,3 @@ function coffee(arr){
     }
     console.log(`Income Report: $${totalIncome.toFixed(2)}`)
 }
-coffee(['8.00, coffee, decaf, 4', '1.00, tea, 2']);

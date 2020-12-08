@@ -6,4 +6,3 @@ function GCP(num1, num2){
         }
     }
 }
-GCP(2154, 458);

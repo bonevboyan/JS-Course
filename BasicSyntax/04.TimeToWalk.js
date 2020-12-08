@@ -12,4 +12,3 @@ function time(step, length, speed){
     seconds = seconds < 10 ? '0'+seconds : seconds;
     console.log(`${hours}:${minutes}:${Math.round(seconds)}`)
 }
-time(2564, 0.70, 5.5)

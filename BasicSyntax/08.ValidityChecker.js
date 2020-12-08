@@ -19,4 +19,3 @@ function checker(arr){
         console.log(`{${x1}, ${y1}} to {${x2}, ${y2}} is invalid`)
     }
 }
-checker([2, 1, 1, 1])

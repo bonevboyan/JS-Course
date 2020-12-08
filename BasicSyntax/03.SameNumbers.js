@@ -11,4 +11,3 @@ function sameNums(num){
     console.log(f)
     console.log(sum)
 }
-sameNums(4444);

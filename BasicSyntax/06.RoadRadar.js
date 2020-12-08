@@ -26,4 +26,3 @@ function isOverLimit(arr){
         }
     }
 }
-isOverLimit([120, 'interstate'])

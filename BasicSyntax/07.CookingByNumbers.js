@@ -21,4 +21,3 @@ function cook(arr){
         console.log(`${num}`)
     });
 }
-cook(['9', 'dice', 'spice', 'chop', 'bake', 'fillet'])

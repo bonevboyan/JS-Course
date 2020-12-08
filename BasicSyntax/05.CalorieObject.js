@@ -5,4 +5,3 @@ function kcalObj(arr){
     }
     console.log(`{ ${outp.join(', ')} }`)
 }
-kcalObj(['Potato', 93, 'Skyr', 63, 'Cucumber', 18, 'Milk', 42])
